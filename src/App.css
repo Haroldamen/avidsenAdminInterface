@@ -1,0 +1,35 @@
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  height: 100vh;
+  background: url("https://demo.athemium.com/vendors/Athemium/login/login_bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+input {
+  padding: 10px;
+  display: block;
+  /*margin: 10px 0px;*/
+}
+
+Form {
+  background-color: transparent;
+  margin-left: 0px;
+}
+
+.form-control {
+  margin: 15px 100px;
+}
+.error {
+  color: red;
+}
+
+.loginTitle {
+  font-size: 40px;
+  font-family: sans-serif, Arial;
+  color: rgb(216, 215, 215);
+  margin-bottom: 50px;
+}
